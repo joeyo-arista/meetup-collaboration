@@ -1,0 +1,6 @@
+Get list snooping groups (show ip igmp snooping groups)
+List multicast group and interfaces associated:
+                Show interface description
+                Show interface VLAN
+                Show mac address learned on interface
+Repeat for all the multicast groups lsited
